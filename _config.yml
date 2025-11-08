@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Maison Dr. Dermenaki
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: FACE INSTITUTE (Science, Precision, Harmony)
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,13 +22,13 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: rfcaspiani@ymail.it
+facebook_username: Coming up soon
+twitter_username: Coming up soon
+instagram_username: Coming up soon
+linkedin_username: Coming up soon
+github_username:  Coming up soon
+youtube_channel_id: Coming up soon
 reddit_username: /
 behance_username: /
 dribbble_username: /
@@ -95,3 +95,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
