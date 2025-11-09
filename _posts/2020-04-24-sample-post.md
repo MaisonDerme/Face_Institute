@@ -5,16 +5,16 @@ post-image: "https://i.postimg.cc/2SfvCkrw/Schermata-2025-11-09-alle-00-54-51.pn
 description: Aesthetic medicine encompasses medical procedures that aim to improve physical appearance
   headlines, quotes and codes will be represented.
 tags:
-- sample
-- post
-- Aesthetic medicine encompasses medical procedures that aim to improve physical appearance and patient satisfaction, using both invasive and non-invasive techniques like injections, lasers, chemical peels, and surgery. It is an elective field focused on enhancing or restoring features, treating aging effects, and improving body image, and it is often performed on healthy individuals. Treatments are designed to improve the skin, face, and body, addressing concerns such as wrinkles, sagging, and scars. 
+- Non-invasive
+- Aesthetic
+- Medicine
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+# Aesthetic medicine encompasses medical procedures that aim to improve physical appearance and patient satisfaction, using both invasive and non-invasive techniques like injections, lasers, chemical peels, and surgery. It is an elective field focused on enhancing or restoring features, treating aging effects, and improving body image, and it is often performed on healthy individuals. Treatments are designed to improve the skin, face, and body, addressing concerns such as wrinkles, sagging, and scars.
+Few examples:
+* [Botox Brow Lift](https://www.youtube.com/watch?v=ISHlJSeqgyw)
+* [Small lip Filler](https://www.youtube.com/watch?v=uLzTBQBp5iM)
+* [Rhinofiller](https://www.youtube.com/watch?v=R6qHwpmHupI)
 
 ---
 
@@ -70,3 +70,4 @@ Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molesti
 **YouTUbe Videos will look like:**<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
