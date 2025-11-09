@@ -60,7 +60,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "cases/:title"
+permalink: "blog/:title"
 
 # Compress
 compress_html:
@@ -95,6 +95,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
