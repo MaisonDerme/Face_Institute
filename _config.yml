@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Maison Dr. Dermenaki
 # URL for the Image of the Author
-author-image: https://i.postimg.cc/0jYknqFC/Schermata-2025-11-09-alle-00-42-15.png
+author-image: https://i.postimg.cc/LXxt4kwM/IMG-2786.jpg
 # 60 Words About the Author
 author-about: I graduated from both Dental School and Medical School at the University of Pavia, Italy, before pursuing advanced training in Oral and Maxillofacial Surgery in Milan, Italy. My clinical practice focuses on a broad spectrum of procedures, including head and neck oncology, facial traumatology, oral surgery, dental implantology, wisdom tooth extraction, facial aesthetic surgery, and orthognathic surgery. Throughout my education and training, I have developed an in-depth knowledge of facial and neck anatomy, combined with extensive surgical experience, enabling me to approach each case with precision, safety, and aesthetic consideration. I am committed to integrating the latest surgical techniques and evidence-based practices to deliver optimal functional and cosmetic outcomes for my patients.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
@@ -95,6 +95,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
