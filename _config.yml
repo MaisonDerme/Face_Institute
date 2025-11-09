@@ -45,7 +45,7 @@ author-name: Maison Dr. Dermenaki®
 # URL for the Image of the Author
 author-image: https://i.postimg.cc/wMCZFszb/Maison12.jpg
 # 60 Words About the Author
-author-about: I graduated from both Dental School and Medical School at the University of Pavia, Italy, before pursuing advanced training in Oral and Maxillofacial Surgery in Milan, Italy. My clinical practice focuses on a broad spectrum of procedures, including head and neck oncology, facial traumatology, oral surgery, dental implantology, wisdom tooth extraction, facial aesthetic surgery, and orthognathic surgery. Throughout my education and training, I have developed an in-depth knowledge of facial and neck anatomy, combined with extensive surgical experience, enabling me to approach each case with precision, safety, and aesthetic consideration. I am committed to integrating the latest surgical techniques and evidence-based practices to deliver optimal functional and cosmetic outcomes for my patients.
+author-about: I hold degrees in both Dentistry and Medicine from the University of Pavia, Italy. Immediately after graduation, I began working in both hospital settings and private practice as a dentist, performing a range of oral surgery procedures. I later pursued advanced training in Oral and Maxillofacial Surgery, primarily based in Milan, Italy. During my residency, I had the privilege of collaborating with and learning from renowned surgeons in Switzerland, Austria and Germany, where I regularly trained and practiced in plastic surgery, head and neck surgery, and oral and maxillofacial surgery units. My clinical practice encompasses a wide range of procedures, including head and neck oncology, facial trauma management, oral surgery, dental implantology, wisdom tooth extraction, facial aesthetic surgery, and orthognathic surgery. Through my education and training, I have developed a comprehensive understanding of facial and neck anatomy, coupled with extensive surgical experience. This foundation allows me to approach each case with precision, safety, and a strong aesthetic sensibility. I am deeply committed to integrating the latest surgical innovations and evidence-based practices to achieve the highest standards of functional and cosmetic outcomes for my patients.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
@@ -95,6 +95,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
