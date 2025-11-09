@@ -1,13 +1,12 @@
 ---
-title: How to Install and use WhatATheme?
+title: Post-Extraction Dental Implants with Simultaneous Bone Regeneration
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+post-image: https://i.postimg.cc/Hs5wPWyn/8.png
+description: Post-Extraction Dental Implants with Simultaneous Bone Regeneration.
 tags:
-- how to
-- setup
-- theme
+- Implants
+- Post-Extraction
+- Bone Regeneration
 ---
 
 # What is WhatATheme?
@@ -69,4 +68,5 @@ WhatATheme comes pre installed with
 ### Step 2 - Making changes via **_config.yml**
 > * Open _config.yml file
 > * Fill the available details accordingly
+
 > * Commit the changes
