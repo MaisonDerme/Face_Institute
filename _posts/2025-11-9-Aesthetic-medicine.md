@@ -1,7 +1,7 @@
 ---
 title: Aesthetic medicine
 layout: post
-post-image: (https://i.postimg.cc/FRK3wTNr/Logo-medicina-estetica.jpg)
+post-image: https://i.postimg.cc/FRK3wTNr/Logo-medicina-estetica.jpg
 description: Aesthetic medicine encompasses medical procedures that aim to improve physical appearance
   the easy steps to set up WhatATheme.
 tags:
@@ -71,6 +71,7 @@ Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molesti
 **YouTUbe Videos will look like:**<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
