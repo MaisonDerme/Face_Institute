@@ -7,7 +7,7 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Maison Dr. Dermenaki
+title: Maison Dr. Dermenaki®
 # Description of the Site
 description: FACE INSTITUTE (Science, Precision, Harmony)
 # URL of Image of the Site
@@ -41,7 +41,7 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: Maison Dr. Dermenaki
+author-name: Maison Dr. Dermenaki®
 # URL for the Image of the Author
 author-image: https://i.postimg.cc/wMCZFszb/Maison12.jpg
 # 60 Words About the Author
@@ -95,6 +95,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
