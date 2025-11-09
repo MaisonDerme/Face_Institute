@@ -1,5 +1,6 @@
 ---
-title: Blog
-layout: blog
+title: Cases
+layout: cases
 ---
+
 
