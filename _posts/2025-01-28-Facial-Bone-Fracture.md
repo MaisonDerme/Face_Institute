@@ -15,7 +15,7 @@ tags:
 
 **Common Causes of Facial Bone Fractures**<br>
 Facial fractures are caused by blunt or penetrating trauma to the face. The most common causes include:
- - **Road traffic accidents** – Especially involving motor vehicles, motorcycles, bicycles, or e-scooters (monopattini), where the face directly impacts hard surfaces or objects.
+ - **Road traffic accidents** – Especially involving motor vehicles, motorcycles, bicycles, or e-scooters, where the face directly impacts hard surfaces or objects.
  - **Sports injuries** – Particularly in contact sports such as boxing, football, rugby, or hockey.
  - **Falls** – Common among children and the elderly, or in occupational accidents.
  - **Assaults (colluttazioni)** – Physical altercations or interpersonal violence are a significant cause, often resulting in isolated jaw or nasal fractures.
@@ -94,7 +94,6 @@ CT scans (computed tomography) – The gold standard for detailed evaluation of 
 
 **Treatment**<br>
 Treatment aims to restore facial symmetry, function, and occlusion, while minimizing complications and long-term deformities.
-
 1. Conservative (Non-Surgical) Management:  Not all facial fractures require surgery.
 Indications for conservative treatment include:
  - Non-displaced or minimally displaced fractures.
@@ -110,14 +109,13 @@ Conservative management may include:
 In some cases, such as nasal bone or zygomatic arch fractures, manual or instrument-assisted closed reduction can reposition the bones without open surgery.
 This is usually done under local or general anaesthesia, and splints or supports may be used temporarily.
 
-3. Surgical Treatment (Open Reduction and Internal Fixation – ORIF)
-Indicated when there is:
+3. Surgical Treatment (Open Reduction and Internal Fixation – ORIF). Indicated when there is:
  - Significant bone displacement or deformity.
  - Malocclusion or functional impairment.
  - Orbital involvement causing diplopia or enophthalmos.
  - Comminuted or unstable fractures.
 
-Procedure:
+**Procedure:**
  - The surgeon makes incisions (usually intraoral or hidden within natural creases) to access the fracture.
  - The bone fragments are realigned and stabilized using titanium plates and screws — a process known as osteosynthesis.
  - These materials are biocompatible and typically left in place permanently.
@@ -126,8 +124,7 @@ Procedure:
 
 
 **Prognosis and Recovery**<br>
-Most facial bone fractures heal well with appropriate management.
- - Swelling and bruising usually subside within 2–3 weeks.
+Most facial bone fractures heal well with appropriate management. - Swelling and bruising usually subside within 2–3 weeks.
  - Bone healing typically takes 6–8 weeks, depending on the site and severity.
  - Physical activities or contact sports should be avoided during this period.
 Early diagnosis, careful surgical planning, and coordinated multidisciplinary care (maxillofacial surgeon, ENT, ophthalmologist, and dentist) are crucial for achieving optimal functional and aesthetic outcomes.
