@@ -109,23 +109,23 @@ Your healthcare provider considers several factors before recommending treatment
 
 Type of surgeries to treat oral cancer:
 The most common surgeries for oral cancer are:
-> Primary tumor surgery: Healthcare providers remove tumors through your mouth or an incision in your neck.
-> Glossectomy: This is the partial or total removal of your tongue.
-> Mandibulectomy: This is surgery for oral cancer in your jawbone.
-> Maxillectomy: This surgery removes part or all of the hard palate, which is the bony roof of your mouth.
-> Sentinel lymph node biopsy: This test helps healthcare providers know if cancer has spread beyond the original oral cancer.
-> Neck dissection: This surgery is done to remove lymph nodes from your neck.
-> Reconstruction: Surgery that removes large areas of tissue might be followed by reconstructive surgery to fill gaps left by the tumor or replace part of your lips, tongue, palate or jaw. In some cases, reconstructive surgery is done by taking healthy bone and tissue from other areas of your body.
+- Primary tumor surgery: Healthcare providers remove tumors through your mouth or an incision in your neck.
+- Glossectomy: This is the partial or total removal of your tongue.
+- Mandibulectomy: This is surgery for oral cancer in your jawbone.
+- Maxillectomy: This surgery removes part or all of the hard palate, which is the bony roof of your mouth.
+- Sentinel lymph node biopsy: This test helps healthcare providers know if cancer has spread beyond the original oral cancer.
+- Neck dissection: This surgery is done to remove lymph nodes from your neck.
+- Reconstruction: Surgery that removes large areas of tissue might be followed by reconstructive surgery to fill gaps left by the tumor or replace part of your lips, tongue, palate or jaw. In some cases, reconstructive surgery is done by taking healthy bone and tissue from other areas of your body.
 
 # Non-surgical ways to treat oral cancer:
 These treatment methods can be implemented alone or combined with surgery:
-> Radiation therapy: Radiation therapy uses strong beams of energy to kill cancer cells or keep them from growing. Your healthcare provider may combine radiation therapy with other treatments.
-> Targeted therapy: This cancer treatment uses drugs or other substances to precisely identify and attack certain types of cancer cells without hurting normal cells. Monoclonal antibodies are immune system proteins that are created in the lab and used to treat cancer.
-> Chemotherapy: Your healthcare provider may use anti-cancer drugs that kill cancer cells, including treatments that affect most parts of your body.
-> Immunotherapy: Immunotherapy is a cancer treatment that engages your immune system to fight the disease. The treatment is sometimes called biological therapy.
+- Radiation therapy: Radiation therapy uses strong beams of energy to kill cancer cells or keep them from growing. Your healthcare provider may combine radiation therapy with other treatments.
+- Targeted therapy: This cancer treatment uses drugs or other substances to precisely identify and attack certain types of cancer cells without hurting normal cells. Monoclonal antibodies are immune system proteins that are created in the lab and used to treat cancer.
+- Chemotherapy: Your healthcare provider may use anti-cancer drugs that kill cancer cells, including treatments that affect most parts of your body.
+- Immunotherapy: Immunotherapy is a cancer treatment that engages your immune system to fight the disease. The treatment is sometimes called biological therapy.
 
 # Prognosis:
 What can I expect if I have oral cancer?
-Oral cancer includes cancer in your mouth. Like most forms of cancer, early diagnosis and treatment reduces the chance that oral cancer will spread. Approximately 1/3 of people treated for oral cancer develop new a cancer. If you’ve been treated for oral cancer, talk to your healthcare provider about follow-up examinations.
+Like most forms of cancer, early diagnosis and treatment reduces the chance that oral cancer will spread. Approximately 1/3 of people treated for oral cancer develop new a cancer. If you’ve been treated for oral cancer, talk to your healthcare provider about follow-up examinations.
 
 ---
