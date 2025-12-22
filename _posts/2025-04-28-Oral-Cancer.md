@@ -43,17 +43,21 @@ Oral cancer has several signs and symptoms that may be mistaken for common probl
 
 The following conditions all appear as patches in your mouth and throat, but they’re different colors:
 
-- Leukoplakia: These are flat white or gray patches in your mouth or throat.
+- >>Leukoplakia<<: These are flat white or gray patches in your mouth or throat.
+clinical demonstration:
 ![Test Image](https://i.postimg.cc/SxtRGQRZ/Schermata-2025-12-22-alle-16-16-21.png)
 
-- Erythroplakia: These are slightly raised or flat red patches. These patches might bleed when scraped.
+- >>Erythroplakia<<: These are slightly raised or flat red patches. These patches might bleed when scraped.
+clinical demonstration:
 ![Test Image](https://i.postimg.cc/9QvVMDzK/Schermata-2025-12-22-alle-16-17-28.png)
 
-- Erythroleukoplakia: These patches are red and white.
+- >>Erythroleukoplakia<<: These patches are red and white.
+clinical demonstration:
 ![Test Image](https://i.postimg.cc/sXskQ7zn/Schermata-2025-12-22-alle-16-17-03.png)
 
 Common signs and symptoms of oral cancer include:
 - Sores on your lip or inside your mouth that bleed easily and don’t heal within two weeks.
+clinical demonstration:
 ![Test Image](https://i.postimg.cc/KYrV2jTM/Schermata-2025-12-22-alle-16-18-27.png)
 
 - Rough spots or crusty areas on your lips, gums or inside of your mouth.
@@ -63,6 +67,17 @@ Common signs and symptoms of oral cancer include:
 - Unintentional weight loss.
 - Earache.
 - Chronic bad breath.
+
+# Diagnosis and Tests:
+Your dentist may spot potential oral cancer during one of your regular checkups. They may follow up with preliminary tests or refer you to an oral and maxillofacial surgeon, or head and neck surgeon. These specialists are also called ear, nose and throat (ENT) specialists.
+
+Oral cancer tests include:
+- >>Physical examination<<: Your healthcare provider will look at the entire inside of your mouth and might feel around your mouth. They’ll also examine your head, face and neck for potential signs of pre-cancer or cancer.
+- >>Brush biopsy also called scrape biopsy or exfoliative cytology<<: Healthcare providers use a small brush or spatula to gently scrape the area in question to obtain cells examined for cancer.
+- >>Incisional biopsy<<: Your healthcare provider will remove small pieces of tissue to get cells to be examined for cancer.
+- >>Indirect laryngoscopy and pharyngoscopy<<: Your healthcare provider uses a small mirror on a long thin handle to look at your throat, the base of your tongue and part of your larynx (voice box).
+- >>Direct (flexible) pharyngoscopy and laryngoscopy<<: They may use an endoscope to look at areas of your throat and mouth that can’t be seen with mirrors. An endoscope is a thin, flexible tube with an attached light and viewing lens.
+
 
 
 
