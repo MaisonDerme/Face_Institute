@@ -16,7 +16,7 @@ tags:
 # What is oral cancer?
 Oral cancer (mouth cancer) is the broad term for cancer that affects the inside of your mouth. Oral cancer can look like a common problem with your lips or in your mouth, like white patches or sores that bleed. The difference between a common problem and potential cancer is these changes don’t go away. Left untreated, oral cancer can spread throughout your mouth and throat to other areas of your head and neck. Approximately 63% of people with oral cavity cancer are alive five years after diagnosis.
 
-![Test Image](https://i.postimg.cc/xCPcMvzv/Oral-Cancer.png)
+![Test Image](https://i.postimg.cc/8c53vXBY/cancer.jpg)
 
 # Who is affected by oral cancer?
 Overall, about 11 people in 100,000 will develop oral cancer during their lifetime. Men are more likely than women to develop oral cancer. People who are white are more likely to develop oral cancer than people who are Black.
@@ -27,6 +27,15 @@ Oral cancer can affect your mouth and your oropharynx. Your oropharynx includes 
 # What causes oral cancer?
 Oral cancer starts in the squamous cells in your oral cavity. Squamous cells are flat and, when viewed under a microscope, look like a fish scale.
 Normal squamous cells become cancerous when their DNA changes and cells begin growing and multiplying. Over time, these cancerous cells can spread to other areas inside of your mouth and then to other areas of your head and neck or other areas of your body.
+
+# Prevention measures:
+Oral cancer can be prevented, and you can play an active role in preventing it. You can help prevent oral cancer with the following tips:
+- If you’re someone who smokes tobacco, chews tobacco or uses a water pipe, try stopping or cutting back. Talk to your doctor about smoking cessation programs.
+- If you’re someone who drinks alcohol, drink in moderation.
+- Remember your sunscreen. Use UV-AB-blocking sunscreen on your face and sunblock.
+- Get vaccinated for human papillomavirus.
+- Eat a well-balanced diet.
+- Have regular dental check-ups. People between ages 20 and 40 should have an oral cancer screening every three years and annual exams after age 40.
 
 # Are there specific activities that can increase my risk of developing oral cancer?
 About 75% of people who develop oral cancer have the following habits:
@@ -43,48 +52,80 @@ Oral cancer has several signs and symptoms that may be mistaken for common probl
 
 The following conditions all appear as patches in your mouth and throat, but they’re different colors:
 
-- >>Leukoplakia<<: These are flat white or gray patches in your mouth or throat.
-clinical demonstration:
+- >Leukoplakia: These are flat white or gray patches in your mouth or throat.
+
 ![Test Image](https://i.postimg.cc/SxtRGQRZ/Schermata-2025-12-22-alle-16-16-21.png)
 
-- >>Erythroplakia<<: These are slightly raised or flat red patches. These patches might bleed when scraped.
-clinical demonstration:
+- >Erythroplakia: These are slightly raised or flat red patches. These patches might bleed when scraped.
+
 ![Test Image](https://i.postimg.cc/9QvVMDzK/Schermata-2025-12-22-alle-16-17-28.png)
 
-- >>Erythroleukoplakia<<: These patches are red and white.
-clinical demonstration:
+- >Erythroleukoplakia: These patches are red and white.
+
 ![Test Image](https://i.postimg.cc/sXskQ7zn/Schermata-2025-12-22-alle-16-17-03.png)
 
 Common signs and symptoms of oral cancer include:
-- Sores on your lip or inside your mouth that bleed easily and don’t heal within two weeks.
-clinical demonstration:
+- >Sores on your lip or inside your mouth that bleed easily and don’t heal within two weeks.
+
 ![Test Image](https://i.postimg.cc/KYrV2jTM/Schermata-2025-12-22-alle-16-18-27.png)
 
-- Rough spots or crusty areas on your lips, gums or inside of your mouth.
-- Areas in your mouth that bleed for no obvious reason.
-- Numbness, pain or tenderness on your face and neck or in your mouth that occur without apparent cause.
-- Difficulty chewing or swallowing, speaking or moving your jaw or tongue.
-- Unintentional weight loss.
-- Earache.
-- Chronic bad breath.
+- >Rough spots or crusty areas on your lips, gums or inside of your mouth.
+- >Areas in your mouth that bleed for no obvious reason.
+- >Numbness, pain or tenderness on your face and neck or in your mouth that occur without apparent cause.
+- >Difficulty chewing or swallowing, speaking or moving your jaw or tongue.
+- >Unintentional weight loss.
+- >Earache.
+- >Chronic bad breath.
 
 # Diagnosis and Tests:
 Your dentist may spot potential oral cancer during one of your regular checkups. They may follow up with preliminary tests or refer you to an oral and maxillofacial surgeon, or head and neck surgeon. These specialists are also called ear, nose and throat (ENT) specialists.
-
 Oral cancer tests include:
-- >>Physical examination<<: Your healthcare provider will look at the entire inside of your mouth and might feel around your mouth. They’ll also examine your head, face and neck for potential signs of pre-cancer or cancer.
-- >>Brush biopsy also called scrape biopsy or exfoliative cytology<<: Healthcare providers use a small brush or spatula to gently scrape the area in question to obtain cells examined for cancer.
-- >>Incisional biopsy<<: Your healthcare provider will remove small pieces of tissue to get cells to be examined for cancer.
-- >>Indirect laryngoscopy and pharyngoscopy<<: Your healthcare provider uses a small mirror on a long thin handle to look at your throat, the base of your tongue and part of your larynx (voice box).
-- >>Direct (flexible) pharyngoscopy and laryngoscopy<<: They may use an endoscope to look at areas of your throat and mouth that can’t be seen with mirrors. An endoscope is a thin, flexible tube with an attached light and viewing lens.
+- >Physical examination: Your healthcare provider will look at the entire inside of your mouth and might feel around your mouth. They’ll also examine your head, face and neck for potential signs of pre-cancer or cancer.
+- >Brush biopsy also called scrape biopsy or exfoliative cytology: Healthcare providers use a small brush or spatula to gently scrape the area in question to obtain cells examined for cancer.
+- >Incisional biopsy: Your healthcare provider will remove small pieces of tissue to get cells to be examined for cancer.
+- >Indirect laryngoscopy and pharyngoscopy: Your healthcare provider uses a small mirror on a long thin handle to look at your throat, the base of your tongue and part of your larynx (voice box).
+- >Direct (flexible) pharyngoscopy and laryngoscopy: They may use an endoscope to look at areas of your throat and mouth that can’t be seen with mirrors. An endoscope is a thin, flexible tube with an attached light and viewing lens.
 
+# oral cancer stages:
+Diagnostic tests help determine a cancer’s stage. A stage describes a cancer’s location, if a cancer has grown, or penetrated the surface of the area where it was found. Tests also check to see if the cancer has moved to other areas in your body.
 
+Healthcare providers use staging information to recommend treatment and help predict chances of recovery.
 
+Oral cancers are staged using the TNM system. T stands for the size and location of the primary tumor. N indicates if the tumor has spread to your lymph nodes. M indicates if the tumor has metastasized, or spread to other areas of your body.
 
----
+The stages for oral cavity cancer are:
 
-Few examples:
+TI: The tumor in your mouth measures 2 centimeters or less.
+T2: The tumor is 2 centimeters or smaller but isn’t larger than 4 centimeters.
+T3: The tumor is larger than 4 centimeters.
 
-![Test Image](https://i.postimg.cc/2yHCGTGt/11184-oral-cancer.jpg)
+# Management and Treatment:
+The three main treatment options for oral are “surgery“, “radiation therapy“ and “chemotherapy“. 
+Your healthcare provider considers several factors before recommending treatment. Those factors include:
+- The kind of oral cancer that you have.
+- If the oral cancer you have has spread from the original site to other parts of your mouth and throat or other parts of your body.
+- Your general health.
+- Your age.
+
+Type of surgeries to treat oral cancer:
+The most common surgeries for oral cancer are:
+> Primary tumor surgery: Healthcare providers remove tumors through your mouth or an incision in your neck.
+> Glossectomy: This is the partial or total removal of your tongue.
+> Mandibulectomy: This is surgery for oral cancer in your jawbone.
+> Maxillectomy: This surgery removes part or all of the hard palate, which is the bony roof of your mouth.
+> Sentinel lymph node biopsy: This test helps healthcare providers know if cancer has spread beyond the original oral cancer.
+> Neck dissection: This surgery is done to remove lymph nodes from your neck.
+> Reconstruction: Surgery that removes large areas of tissue might be followed by reconstructive surgery to fill gaps left by the tumor or replace part of your lips, tongue, palate or jaw. In some cases, reconstructive surgery is done by taking healthy bone and tissue from other areas of your body.
+
+# Non-surgical ways to treat oral cancer:
+These treatment methods can be implemented alone or combined with surgery:
+> Radiation therapy: Radiation therapy uses strong beams of energy to kill cancer cells or keep them from growing. Your healthcare provider may combine radiation therapy with other treatments.
+> Targeted therapy: This cancer treatment uses drugs or other substances to precisely identify and attack certain types of cancer cells without hurting normal cells. Monoclonal antibodies are immune system proteins that are created in the lab and used to treat cancer.
+> Chemotherapy: Your healthcare provider may use anti-cancer drugs that kill cancer cells, including treatments that affect most parts of your body.
+> Immunotherapy: Immunotherapy is a cancer treatment that engages your immune system to fight the disease. The treatment is sometimes called biological therapy.
+
+# Prognosis:
+What can I expect if I have oral cancer?
+Oral cancer includes cancer in your mouth. Like most forms of cancer, early diagnosis and treatment reduces the chance that oral cancer will spread. Approximately 1/3 of people treated for oral cancer develop new a cancer. If you’ve been treated for oral cancer, talk to your healthcare provider about follow-up examinations.
 
 ---
