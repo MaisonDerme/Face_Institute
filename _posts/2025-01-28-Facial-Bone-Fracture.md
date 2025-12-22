@@ -31,58 +31,41 @@ Can result from even minor trauma.
 Symptoms include pain, swelling, nasal deformity, epistaxis (nosebleed), and nasal obstruction.
 Usually diagnosed clinically, with imaging if displacement or septal injury is suspected.
 
----
-
 ![Test Image](https://i.postimg.cc/qqKrT0xM/deformity.jpg)
 
----
 **Zygomatic (Cheekbone) Fractures**
 The zygomatic bone forms the cheek prominence and part of the orbital rim.
 Fractures here may affect appearance, ocular function, and bite.
 Typical signs include flattened cheek contour, periorbital bruising, trismus (difficulty opening the mouth), numbness of the cheek or upper lip (due to infraorbital nerve injury), and double vision if the orbital floor is involved.
 
----
-
 ![Test Image](https://i.postimg.cc/FsgtgTWc/d801e209924415b8dc38c4a1a637d2-big-gallery.jpg)
 
----
 **Maxillary Fractures (Midface / Le Fort Fractures)**
 Involve the upper jaw and may range from simple alveolar fractures to complex midfacial fractures (Le Fort I, II, III).
 Symptoms include facial elongation, mobility of the upper jaw, malocclusion, epistaxis, swelling, and bruising around the eyes (panda eyes).
 Often occur in high-impact injuries, such as car or scooter accidents.
 
----
-
 ![Test Image](https://i.postimg.cc/6QCCyG6F/images.jpg)
 
----
 **Mandibular (Jaw) Fractures**
 The second most common facial fracture.
 Common sites: condyle, angle, body, and symphysis.
 Condylar fractures are particularly frequent due to indirect forces transmitted through the chin.
 Symptoms include pain on chewing, malocclusion, deviation of the jaw during opening, limited mouth opening, and preauricular swelling.
 
----
-
 ![Test Image](https://i.postimg.cc/d0ntHq5w/13.jpg)
 
----
 **Orbital Fractures**
 May involve the orbital floor (“blowout fracture”) or the orbital rim.
 Symptoms: double vision (diplopia), restricted eye movement, sunken eye (enophthalmos), and numbness in the infraorbital region.
 Can be associated with zygomatic fractures or isolated due to sports injuries or falls.
 
----
-
 ![Test Image](https://i.postimg.cc/MKRBsQVH/16.png)
 
----
 **Frontal Bone Fractures**
 Result from high-energy trauma.
 May involve the frontal sinus and can lead to complications such as CSF leaks or infection if the sinus is breached.
 Require careful imaging and multidisciplinary management.
-
----
 
 ![Test Image](https://i.postimg.cc/fWYWpj22/1-s2-0-S2214751920305491-gr5.jpg)
 
