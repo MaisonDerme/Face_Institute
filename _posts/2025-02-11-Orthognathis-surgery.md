@@ -1,7 +1,7 @@
 ---
 title: Orthognathic Surgery
 layout: post
-post-image: https://i.postimg.cc/P5nqnfZg/Schermata-2025-11-10-alle-20-11-54.png  
+post-image: https://i.postimg.cc/MGqDSDq7/E3.jpg  
 description: Orthognathic surgery is a type of corrective facial surgery performed to reposition and realign the jaws (maxilla and mandible) to achieve proper function and facial balance. It’s usually indicated when there are significant skeletal discrepancies between the upper and lower jaws that cannot be corrected by orthodontic treatment alone.
   
 tags:
@@ -19,6 +19,36 @@ Enhancing facial aesthetics and symmetry.
 Alleviating jaw pain or temporomandibular joint (TMJ) problems in some cases.
 
 The surgery involves cutting and repositioning sections of the jawbone, then securing them with plates, screws, or wires. Recovery typically includes a period of healing and orthodontic adjustment afterward.
+
+---
+
+Few examples:
+
+![Test Image](https://i.postimg.cc/N0K05hgN/C1.jpg)
+
+
+![Test Image](https://i.postimg.cc/NG6jykcF/C2.jpg)
+
+
+![Test Image](https://i.postimg.cc/fbSwMxKg/C3.jpg)
+
+
+![Test Image](https://i.postimg.cc/mDcFfzzh/A1.jpg)
+
+
+![Test Image](https://i.postimg.cc/nrbrydfw/A2.jpg)
+
+
+![Test Image](https://i.postimg.cc/V6w22MHg/D1.jpg)
+
+
+![Test Image](https://i.postimg.cc/PJ3cL7fS/D2.jpg)
+
+
+![Test Image](https://i.postimg.cc/63zbSPZ8/D3.jpg)
+
+
+![Test Image](https://i.postimg.cc/PJ9ynn5J/F3.jpg)
 
 ---
 
