@@ -14,27 +14,26 @@ tags:
 ---
 
 # Rinofiller
-An earlobe repair (lobuloplasty) is a common cosmetic surgery that fixes torn, split, stretched or drooping earlobes. Your earlobe is the lower part of your outer ear. Gravity isn’t always favorable to earlobes. Your earlobe size may increase if you wear heavy earrings. Or you may stretch your earlobes to wear larger jewelry called gauges. Your earlobes may also rip or tear due to injuries or accidents. A plastic surgeon will perform this minor surgery on your affected ear(s). Your ears will have a more symmetrical (balanced) appearance after you heal.
-You might choose to get an earlobe repair to:
-Repair a laceration or injury that damaged your earlobe; 
-Connect a tear caused by ear gauging or the process of stretching the hole in your ear to wear larger jewelry; 
-Connect stretched-out piercing holes, often from wearing heavy earrings; 
-Repair your lobe after getting multiple ear piercings, piercings in the wrong location or piercings too close together. 
+An earlobe repair (lobuloplasty) is a common cosmetic surgery that fixes torn, split, stretched or drooping earlobes. Your earlobe is the lower part of your outer ear. Gravity isn’t always favorable to earlobes. Your earlobe size may increase if you wear heavy earrings. Or you may stretch your earlobes to wear larger jewelry called gauges. Your earlobes may also rip or tear due to injuries or accidents. I perform this minor surgery on your affected ear(s). Your ears will have a more symmetrical (balanced) appearance after you heal.
+
+# You might choose to get an earlobe repair to:
+- Repair a laceration or injury that damaged your earlobe;
+- Connect a tear caused by ear gauging or the process of stretching the hole in your ear to wear larger jewelry;
+- Connect stretched-out piercing holes, often from wearing heavy earrings;
+- Repair your lobe after getting multiple ear piercings, piercings in the wrong location or piercings too close together. 
 
 Few examples:
 
-![Test Image](https://i.postimg.cc/R0bXqn2R/Nose1.jpg)
+![Test Image](https://i.postimg.cc/bvhnr4Ky/IMG-2103.jpg)
 
 
-![Test Image](https://i.postimg.cc/vBtT3WMT/Nose5.jpg)
+![Test Image](https://i.postimg.cc/Z5r9GVCZ/Image-1.jpg)
 
 
-![Test Image](https://i.postimg.cc/fy34JNHN/Nose2.jpg)
+![Test Image](https://i.postimg.cc/YCw0zY8N/Image-2.jpg)
 
 
-![Test Image](https://i.postimg.cc/tJPjBbhq/Nose3.jpg)
+![Test Image](https://i.postimg.cc/mDq2zHth/Image-3.jpg)
 
-
-![Test Image](https://i.postimg.cc/zv3LvyZv/Nose4.jpg)
 
 ---
