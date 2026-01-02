@@ -1,7 +1,7 @@
 ---
 title: Oral SCC - New Staging System
 layout: post
-post-image: https://i.postimg.cc/bvmLdKDP/AJCC-(1).jpg
+post-image: https://i.postimg.cc/VL122cc2/AJCC12.jpg
 description: AJCC 8th Edition TNM Staging – Oral Cavity SCC
  
 tags:
