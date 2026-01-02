@@ -20,6 +20,27 @@ AJCC-8 introduced two major prognostic refinements specific to oral cavity SCC, 
 - >Depth of Invasion (DOI) for T staging.
 - >Extranodal Extension (ENE) for N staging.
 
+# T – Primary Tumor:
+Key Concept: Depth of Invasion (DOI)
+- DOI is measured from the basement membrane of the adjacent normal mucosa to the deepest point of tumor invasion.
+- It is not the same as tumor thickness.
+- DOI is one of the strongest predictors of cervical nodal metastasis.
+
+| Category  | Definition |
+| TX	  | Primary tumor cannot be assessed |	
+| T0  | No evidence of primary tumor |
+| Tis  | Carcinoma in situ |
+| T1  | Tumor ≤2 cm and DOI ≤5 mm |
+| T2  | Tumor ≤2 cm with DOI >5–10 mm OR tumor >2–4 cm with DOI ≤10 mm |
+| T3  | Tumor >4 cm OR DOI >10 mm |
+| T4a (moderately advanced) | Tumor invades adjacent structures such as: cortical bone of mandible/maxilla, maxillary sinus, skin of face, extrinsic muscles of tongue (genioglossus, hyoglossus, palatoglossus, styloglossus) |
+| T4b (very advanced) | Tumor invades masticator space, pterygoid plates, skull base, or encases the internal carotid artery |
+	
+Clinical relevance:
+Many tumors previously staged as T1 or T2 in AJCC-7 are upstaged in AJCC-8 due to DOI >10 mm.
+
+
+
 
 # You might choose to get an earlobe repair to:
 - 
