@@ -16,10 +16,9 @@ tags:
 # AJCC 8th Edition TNM Staging – Oral Cavity SCC
 Below is a structured explanation of the AJCC 8th edition (AJCC-8) TNM staging for oral cavity squamous cell carcinoma (oral SCC), followed by a clear stage-grouping table (Stages I–IV).
 
-AJCC-8 introduced two major prognostic refinements specific to oral cavity SCC:
+AJCC-8 introduced two major prognostic refinements specific to oral cavity SCC, which significantly improve prediction of nodal metastasis, recurrence, and survival:
 - >Depth of Invasion (DOI) for T staging.
 - >Extranodal Extension (ENE) for N staging.
-These changes significantly improve prediction of nodal metastasis, recurrence, and survival.
 
 
 # You might choose to get an earlobe repair to:
