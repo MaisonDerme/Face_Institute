@@ -5,7 +5,7 @@ post-image: https://i.postimg.cc/yYzgvcVJ/cesar-badilla-miranda-9sh-WSke-Yjl-Q-u
 description: A guide to open surgical tracheostomy
  
 tags:
-- Tracheostomy: indications, procedure, complications
+- Tracheostomy, indications, procedure, complications
 - Neck surgery
 - Airway patency 
 - Mechanical ventilation
