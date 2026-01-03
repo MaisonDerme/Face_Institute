@@ -78,7 +78,7 @@ Beneath the platysma lie the **infrahyoid (strap) muscles**, which form the prin
 This orderly dissection through the muscular planes allows exposure of the pretracheal fascia and underlying trachea, while minimizing tissue trauma and bleeding.
 
 
-🔹 Muscles encountered (superficial → deep), After skin and fascia, the muscular layers dissected or retracted are:
+Muscles encountered (superficial → deep), After skin and fascia, the muscular layers dissected or retracted are:
 - Platysma
 - Strap (infrahyoid) muscles
 - Sternohyoid (usually separated in the midline)
@@ -92,7 +92,7 @@ At a deeper level, the **inferior thyroid veins** often lie over the anterior su
 A notable vascular variant is the **thyroid ima (innermost) artery**, when present, which ascends from the brachiocephalic trunk or aortic arch to the thyroid gland. Unrecognized injury to this vessel can result in significant hemorrhage. Laterally, the **carotid sheath** structures—comprising the common carotid artery, internal jugular vein, and vagus nerve—must be respected and protected by maintaining strict midline dissection. In low tracheostomies, particularly in pediatric patients, attention must also be paid to the **brachiocephalic (innominate) artery**, which may lie close to the anterior tracheal wall.
 
 
-🔹 Vascular structures to identify and preserve:
+Vascular structures to identify and preserve:
 - Anterior jugular veins (often cross the midline → avoid or ligate carefully)
 - Inferior thyroid veins (especially over the trachea)
 - Thyroid ima (innermost) artery (if present – important and dangerous variant)
@@ -100,7 +100,7 @@ A notable vascular variant is the **thyroid ima (innermost) artery**, when prese
 
 
 
-🔹 Carotid sheath (Particularly important in children and low tracheostomies) laterally, containing:
+Carotid sheath (Particularly important in children and low tracheostomies) laterally, containing:
 - Common carotid artery.
 - Internal jugular vein.
 - Vagus nerve.
@@ -111,7 +111,7 @@ A notable vascular variant is the **thyroid ima (innermost) artery**, when prese
 Several neural structures are vulnerable during the procedure and warrant careful consideration. The **recurrent laryngeal nerves**, which ascend in the tracheoesophageal grooves on either side, are particularly important. Injury to these nerves can result in unilateral or bilateral vocal cord paralysis, leading to significant airway and phonatory complications.
 The **vagus nerve**, located within the carotid sheath, is also at risk if lateral dissection is excessive. In high tracheostomies, the **superior laryngeal nerve** may be endangered, though it is less commonly injured in standard midline approaches.
 
-🔹 Nervous structures:
+Nervous structures:
 - Recurrent laryngeal nerves
 - Run in the tracheoesophageal groove
 - Injury → vocal cord paralysis
