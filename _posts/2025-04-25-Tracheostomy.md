@@ -112,10 +112,8 @@ Several neural structures are vulnerable during the procedure and warrant carefu
 The **vagus nerve**, located within the carotid sheath, is also at risk if lateral dissection is excessive. In high tracheostomies, the **superior laryngeal nerve** may be endangered, though it is less commonly injured in standard midline approaches.
 
 Nervous structures:
-- Recurrent laryngeal nerves
-- Run in the tracheoesophageal groove
-- Injury → vocal cord paralysis
-- Vagus nerve (within carotid sheath)
+- Recurrent laryngeal nerves (Run in the tracheoesophageal groove): Injury → vocal cord paralysis;
+- Vagus nerve (within carotid sheath);
 - Superior laryngeal nerve (rarely injured but should be respected in high dissection)
 
 ---
