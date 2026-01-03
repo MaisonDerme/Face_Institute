@@ -5,7 +5,7 @@ post-image: https://i.postimg.cc/yYzgvcVJ/cesar-badilla-miranda-9sh-WSke-Yjl-Q-u
 description: A guide to open surgical tracheostomy
  
 tags:
-- Tracheostomy;  indications; complications; procedure
+- Tracheostomy: indications, procedure, complications
 - Neck surgery
 - Airway patency 
 - Mechanical ventilation
@@ -68,6 +68,57 @@ Figure 11. Skin incision is closed loosely if necessary. The tracheostomy tube i
 ![Test Image](https://i.postimg.cc/QtSHYnSV/12.png)
 Figure 12. Encountering thyroid isthmus problems. On the left one can see an enlarged thyroid isthmus that could create problems with visualisation of the trachea and appropriate placement of the tracheotomy window. In this case, an isthmusectomy is being performed, so removing the whole thyroid isthmus out of the operative field. On the right one can observe floppy prominent thyroid isthmus tissue being sutured with absorbable sutures laterally so it does not fall on top of the trachea or tracheotomy window.
 
+---
+# In summary: 
+A thorough understanding of the layered anatomy of the anterior neck, as well as the vascular and neural structures at risk, is essential for performing the procedure safely and minimizing complications. The surgeon must proceed in a meticulous, midline fashion to avoid injury to vital structures.
+
+## Muscles Encountered During Open Surgical Tracheostomy:
+Following skin incision and division of the superficial cervical fascia, the first muscle encountered is the **platysma**, a thin, superficial muscle of facial expression extending over the anterior neck. This muscle is divided in line with the skin incision to expose the deeper fascial layers.
+Beneath the platysma lie the **infrahyoid (strap) muscles**, which form the principal muscular layer encountered during tracheostomy. The **sternohyoid muscles** are identified on either side of the midline and are usually separated bluntly along the avascular median raphe. Deeper to the sternohyoid muscles are the **sternothyroid muscles**, which may require gentle lateral retraction to adequately expose the trachea. The **thyrohyoid muscle** is generally not encountered unless the surgical dissection is placed unusually high in the neck.
+This orderly dissection through the muscular planes allows exposure of the pretracheal fascia and underlying trachea, while minimizing tissue trauma and bleeding.
+
+
+Muscles encountered (superficial → deep):
+After skin and fascia, the muscular layers dissected or retracted are:
+-Platysma
+- Strap (infrahyoid) muscles
+- Sternohyoid (usually separated in the midline)
+- Sternothyroid (retracted laterally)
+🔹 Thyrohyoid is usually not encountered unless the incision is placed too high.
+
+
+## Vascular Structures Requiring Identification and Preservation:
+Several important vascular structures traverse the operative field during an open tracheostomy and must be identified and protected. The **anterior jugular veins** are frequently encountered in the superficial dissection and may cross the midline; these veins should be preserved when possible or ligated carefully if division is necessary.
+At a deeper level, the **inferior thyroid veins** often lie over the anterior surface of the trachea and represent a common source of troublesome bleeding. The **thyroid gland isthmus**, which typically overlies the second to fourth tracheal rings, must be retracted superiorly or inferiorly, or divided between ligatures to gain access to the trachea.
+A notable vascular variant is the **thyroid ima (innermost) artery**, when present, which ascends from the brachiocephalic trunk or aortic arch to the thyroid gland. Unrecognized injury to this vessel can result in significant hemorrhage. Laterally, the **carotid sheath** structures—comprising the common carotid artery, internal jugular vein, and vagus nerve—must be respected and protected by maintaining strict midline dissection. In low tracheostomies, particularly in pediatric patients, attention must also be paid to the **brachiocephalic (innominate) artery**, which may lie close to the anterior tracheal wall.
+
+
+Vascular and nervous structures to identify and preserve:
+🔹 Vascular structures:
+- Anterior jugular veins (often cross the midline → avoid or ligate carefully)
+- Inferior thyroid veins (especially over the trachea)
+- Thyroid ima (innermost) artery (if present – important and dangerous variant)
+- Thyroid gland isthmus (retracted or divided with hemostasis)
+
+🔹 Carotid sheath (Particularly important in children and low tracheostomies) laterally, containing:
+- Common carotid artery
+- Internal jugular vein
+- Vagus nerve
+- Brachiocephalic (innominate) artery
+
+
+## Nervous Structures at Risk During Tracheostomy:
+Several neural structures are vulnerable during the procedure and warrant careful consideration. The **recurrent laryngeal nerves**, which ascend in the tracheoesophageal grooves on either side, are particularly important. Injury to these nerves can result in unilateral or bilateral vocal cord paralysis, leading to significant airway and phonatory complications.
+The **vagus nerve**, located within the carotid sheath, is also at risk if lateral dissection is excessive. In high tracheostomies, the **superior laryngeal nerve** may be endangered, though it is less commonly injured in standard midline approaches.
+
+Nervous structures:
+- Recurrent laryngeal nerves
+- Run in the tracheoesophageal groove
+- Injury → vocal cord paralysis
+- Vagus nerve (within carotid sheath)
+- Superior laryngeal nerve (rarely injured but should be respected in high dissection)
+
+---
 ## Completion:
 One of the first things to check for, in the immediate postoperative period, is the presence of bleeding for the tracheostomy site. The tracheostomy site is also checked for audible air leak, in which case further air is inflated in the tracheostomy cuff. The neck is palpated for surgical emphysema to check if the skin sutures have been placed too tight around the tracheostomy tube. On the other-hand, if too loose, there may be fluid leaks and subsequent infections. A chest X-ray should be ordered to exclude any lung complications such as pneumothorax. The patient is usually nursed in a reverse trendelenburg position and it is ensured that the tracheostomy tube is not pulled laterally by the ventilator tubing system. The various components of the tracheostomy tube kit that are not being used by the patient, such as insertion trocars and spare inner tubes, should be sealed in a bag and given during a proper handover to the nursing staff taking care of the patient. These nurses should be experienced in the care of tracheostomy patients and knowledgeable about the potential complications. It is ensured that appropriate humidification and nebulisers are given and regular suctioning is administered. Instructions to deflate the cuff should be given only once the risk of aspiration passes.
 
