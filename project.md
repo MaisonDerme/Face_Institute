@@ -1,7 +1,8 @@
 ---
 layout: project
-title: Treatments
+title: Projects
 ---
+
 
 
 
