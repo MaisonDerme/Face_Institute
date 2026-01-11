@@ -1,6 +1,7 @@
 ---
-layout: Treatments
+layout: project
 title: Treatments
 ---
+
 
 
